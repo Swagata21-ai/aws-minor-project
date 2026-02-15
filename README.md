@@ -26,7 +26,7 @@ Contents
 - Hands-on experience with EC2, Security Groups, Launch Templates, and EBS Volumes  
 - Practical understanding of AWS regions, availability zones, and storage services  
 
-Author
+Author:
 **Swagata Sinha**
 B.Tech CSE (Cloud Tech & Virtualization AWS)  
 Sharda University, Greater Noida, India
