@@ -18,10 +18,8 @@ Experiments
 5. **EBS Volume (Cross Region)** – Snapshot copy method for attaching volume in another region  
 
 Contents
-- `report/` → Final project report (PDF)  
-- `screenshots/` → Output screenshots for each experiment  
+- `Report/` → Final project report (PDF)  
  
-
  Outcomes
 - Hands-on experience with EC2, Security Groups, Launch Templates, and EBS Volumes  
 - Practical understanding of AWS regions, availability zones, and storage services  
